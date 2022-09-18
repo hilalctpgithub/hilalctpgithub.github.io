@@ -91,7 +91,7 @@ html, body {
 
 a {
   text-decoration: none !important;
-  color: #3CF;
+  color: #fff;
 }
 
 a:hover {
@@ -777,6 +777,12 @@ services
   position: absolute;
   width: 100%;
 }
+
+/*
+.services #servicess {
+  margin-bottom: 50px;
+}
+*/
 
 .services .item {
   background-image: url(../images/service-item-bg.jpg);

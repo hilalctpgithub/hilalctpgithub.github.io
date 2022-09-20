@@ -212,6 +212,8 @@ header
   z-index: 1111;
 }
 
+
+
 .sub-header .left-content p {
   color: #fff;
   padding: 8px 0px;
@@ -241,6 +243,7 @@ header
 .sub-header .left-content p em {
    font-style: normal;
    color: #f5a425;
+   margin-right: 20px;;
 }
 
 .background-header {
